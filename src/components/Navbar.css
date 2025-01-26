@@ -1,0 +1,18 @@
+/* Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #f8f9fa;
+    padding: 10px 20px;
+  }
+  
+  .nav-items a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .nav-items a:hover {
+    color: #007bff;
+  }
+  
